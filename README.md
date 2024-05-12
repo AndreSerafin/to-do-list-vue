@@ -1,6 +1,6 @@
 Dev: André Pereira dos Santos Serafin
 
-# Programação Web - Repositório de Exemplo
+# Programação Web 
 
 Este repositório contém materiais e recursos relacionados à disciplina de Programação Web. Aqui você encontrará códigos de exemplo, exercícios, projetos e qualquer outra informação relevante para o aprendizado e prática de programação web.
 
